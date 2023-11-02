@@ -16,4 +16,4 @@ allow_headers = ['*']
 open_minimum_size = 500
 
 ### Jinja2 Template ###
-Jinja2directory = 'templates'
+Jinja2directory = 'template'
